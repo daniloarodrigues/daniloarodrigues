@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Big Data<br>I'm looking to collaborate on Big Data Projects (tools, libs and others)<br>I'm currently learning Java and  English :D
+I'm currently working on Big Data<br>I'm looking to collaborate on Big Data Projects (tools, libs and others)
 
 
 ## 🌐 Socials:
